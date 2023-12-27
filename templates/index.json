@@ -1,0 +1,10 @@
+{
+    "sections": {
+        "home_header": {
+            "type": "home-header"
+        }
+    },
+    "order": [
+        "home_header"
+    ]
+}
